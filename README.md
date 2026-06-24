@@ -11,14 +11,23 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/HerbyAmertis/threat-hunting-scenario-tor)**
-
+- **[Threat Hunt Challenge: Ember Forge Source Leak](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/EmberForge-Source-Leak.md)**
+- **[Threat Hunt Challenge: Lurker](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/Lurker_Threat_Hunt_Report.md)**
+- **[Threat Hunt Challenge: Papertrail](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/Papertrail_Threat_Hunt_Report.md)**
+- **[Threat Hunt Challenge: Crosscheck](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/SOC_Incident_Investigation_Crosscheck.md)**
+- **[Threat Hunt Challenge: SupportTool Intrusion Analysis](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/SupportTool-Intrusion-Analysis.md)**
+- **[Threat Hunt Challenge: Deep Access The Adversary](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/Threat-Hunt-Deep-Access-The-Adversary.md)**
+- **[Threat Hunt Challenge: Azuki Soc Investigation](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation.md)**
+- **[Threat Hunt Challenge: Bridge Takeover](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_bridge_takeover.md)**
+- **[Threat Hunt Challenge: Cargo Hold](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_cargo_hold.md)**
+- **[Threat Hunt Challenge: Dead In The Water](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_dead_in_the_water.md)**
 <hr/>
 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="_Herby | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="_Herby | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="_Herby | LinkedIn" width="22px" src="https://www.linkedin.com/in/herby-amertis/" />][linkedin]
+[<img align="left" alt="Herby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_Herby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/___________
