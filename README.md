@@ -29,10 +29,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](.............)**
 - **[Threat Hunting Incident: Public Facing IP Detection](............)**
 - **[Threat Hunting Incident: Sudden Network Slowdowns](................)**
-- **[Compliance Framework Implementation (NIST)](................)**  
-
-
-
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/HerbyAmertis/threat-hunting-scenario-tor)**
 - **[Threat Hunt Challenge: Ember Forge Source Leak](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/EmberForge-Source-Leak.md)**
 - **[Threat Hunt Challenge: Lurker](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/Lurker_Threat_Hunt_Report.md)**
@@ -44,7 +40,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt Challenge: Bridge Takeover](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_bridge_takeover.md)**
 - **[Threat Hunt Challenge: Cargo Hold](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_cargo_hold.md)**
 - **[Threat Hunt Challenge: Dead In The Water](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_dead_in_the_water.md)**
-
+- **[Compliance Framework Implementation (NIST)](................)**  
 
 ### GRC Analyst ###
 - **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](...................)**
