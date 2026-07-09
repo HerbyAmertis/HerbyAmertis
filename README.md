@@ -8,6 +8,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/HerbyAmertis/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/HerbyAmertis/Programmatic-Vulnerability-Remediations-PowerShell-BASH-Shell-Commands-)**
 
+### 🟣 PURPLE TEAM 🟣
+#### 🎯 Full SIEM
+- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](...................)** *(Live Traffic)*
+- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](.......................)**
+- **[Setting up Splunk SIEM; Attacking and remediating it](..............)** *(Live Traffic)*
+
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Incident Response: Phishing via Fake Software Update ](.............)**
@@ -39,11 +46,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt Challenge: Cargo Hold](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_cargo_hold.md)**
 - **[Threat Hunt Challenge: Dead In The Water](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_dead_in_the_water.md)**
 
-### 🟣 PURPLE TEAM 🟣
-#### 🎯 Full SIEM
-- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](...................)** *(Live Traffic)*
-- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](.......................)**
-- **[Setting up Splunk SIEM; Attacking and remediating it](..............)** *(Live Traffic)*
 
 ### GRC Analyst ###
 - **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](...................)**
