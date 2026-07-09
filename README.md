@@ -23,14 +23,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response: Threat Hunting (Operation Jackal Spear) ](https://github.com/HerbyAmertis/Operation-Jackal-Spear/tree/main)**
 - **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/HerbyAmertis/Zero-Day-Ransomware-/tree/main)**
 - **[Incident Response: Remote Code Execution Detected](https://github.com/HerbyAmertis/Remote-Code/tree/main)**
-- **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](................)**
-- **[Incident Response: Email-Phishing (Urgent Account Suspended)](.................)**
-- **[Incident Response: Email Analysis (Phishing)](..................)**
-- **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](.................)**
-- **[Incident Response: Create Alert Rule (Potential Impossible Travel)](.....................)**
-- **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](.............)**
-- **[Threat Hunting Incident: Public Facing IP Detection](............)**
-- **[Threat Hunting Incident: Sudden Network Slowdowns](................)**
+- **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/HerbyAmertis/Brute-Force-Attempt/tree/main)**
+- **[Incident Response: Email-Phishing (Urgent Account Suspended)](https://github.com/HerbyAmertis/Response-Email-Phishing/tree/main)**
+- **[Incident Response: Email Analysis (Phishing)](https://github.com/HerbyAmertis/Email-Analysis)**
+- **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/HerbyAmertis/Suspicious-Web-Request/tree/main)**
+- **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/HerbyAmertis/Potential-Impossible-Travel/tree/main)**
+- **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/HerbyAmertis/PIP-d-Employee/tree/main)**
+- **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/HerbyAmertis/Internet-facing/tree/main)**
+- **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/HerbyAmertis/Sudden-Network-Slowdowns/tree/main)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/HerbyAmertis/threat-hunting-scenario-tor)**
 - **[Threat Hunt Challenge: Ember Forge Source Leak](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/EmberForge-Source-Leak.md)**
 - **[Threat Hunt Challenge: Lurker](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/Lurker_Threat_Hunt_Report.md)**
@@ -42,7 +42,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt Challenge: Bridge Takeover](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_bridge_takeover.md)**
 - **[Threat Hunt Challenge: Cargo Hold](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_cargo_hold.md)**
 - **[Threat Hunt Challenge: Dead In The Water](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_dead_in_the_water.md)**
-- **[Compliance Framework Implementation (NIST)](................)**  
+- **[Compliance Framework Implementation (NIST)](https://github.com/HerbyAmertis/NIST-SP-800-53/tree/main)**  
 
 ### GRC Analyst ###
 - **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/HerbyAmertis/CyberSecurity-Framework-CSF-/tree/main)**
