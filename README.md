@@ -10,17 +10,19 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
-- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](...................)** *(Live Traffic)*
-- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](.......................)**
-- **[Setting up Splunk SIEM; Attacking and remediating it](..............)** *(Live Traffic)*
+- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/HerbyAmertis/Building-a-SOC
+)** *(Live Traffic)*
+- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/HerbyAmertis/KQL-Maps-Are-Essential/tree/main
+)**
+- **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/HerbyAmertis/Splunk-Lab/tree/main)** *(Live Traffic)*
 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Incident Response: Phishing via Fake Software Update ](.............)**
-- **[Incident Response: Threat Hunting (Operation Jackal Spear) ](...........)**
-- **[Incident Response: Zero-Day Ransomware (PwnCrypt)](..............)**
-- **[Incident Response: Remote Code Execution Detected](.............)**
+- **[Incident Response: Phishing via Fake Software Update ](https://github.com/HerbyAmertis/Phishing-via-Fake-Software/tree/main)**
+- **[Incident Response: Threat Hunting (Operation Jackal Spear) ](https://github.com/HerbyAmertis/Operation-Jackal-Spear/tree/main)**
+- **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/HerbyAmertis/Zero-Day-Ransomware-/tree/main)**
+- **[Incident Response: Remote Code Execution Detected](https://github.com/HerbyAmertis/Remote-Code/tree/main)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](................)**
 - **[Incident Response: Email-Phishing (Urgent Account Suspended)](.................)**
 - **[Incident Response: Email Analysis (Phishing)](..................)**
@@ -43,10 +45,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Compliance Framework Implementation (NIST)](................)**  
 
 ### GRC Analyst ###
-- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](...................)**
+- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/HerbyAmertis/CyberSecurity-Framework-CSF-/tree/main)**
 
 ###   IT Projects
-- **[Active Directory Lab: Creating 1000 Users with PowerShell](........................)**
+- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/HerbyAmertis/Active-Directory-Lab/tree/main)**
 
 
 <hr/>
