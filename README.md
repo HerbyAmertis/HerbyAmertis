@@ -10,6 +10,23 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Incident Response: Phishing via Fake Software Update ](.............)**
+- **[Incident Response: Threat Hunting (Operation Jackal Spear) ](...........)**
+- **[Incident Response: Zero-Day Ransomware (PwnCrypt)](..............)**
+- **[Incident Response: Remote Code Execution Detected](.............)**
+- **[Threat Hunting Incident: Tor Browser Usage](......................)**
+- **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](................)**
+- **[Incident Response: Email-Phishing (Urgent Account Suspended)](.................)**
+- **[Incident Response: Email Analysis (Phishing)](..................)**
+- **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](.................)**
+- **[Incident Response: Create Alert Rule (Potential Impossible Travel)](.....................)**
+- **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](.............)**
+- **[Threat Hunting Incident: Public Facing IP Detection](............)**
+- **[Threat Hunting Incident: Sudden Network Slowdowns](................)**
+- **[Compliance Framework Implementation (NIST)](................)**  
+
+
+
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/HerbyAmertis/threat-hunting-scenario-tor)**
 - **[Threat Hunt Challenge: Ember Forge Source Leak](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/EmberForge-Source-Leak.md)**
 - **[Threat Hunt Challenge: Lurker](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/Lurker_Threat_Hunt_Report.md)**
@@ -21,6 +38,20 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt Challenge: Bridge Takeover](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_bridge_takeover.md)**
 - **[Threat Hunt Challenge: Cargo Hold](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_cargo_hold.md)**
 - **[Threat Hunt Challenge: Dead In The Water](https://github.com/HerbyAmertis/Threat-Hunt/blob/main/azuki_soc_investigation_dead_in_the_water.md)**
+
+### 🟣 PURPLE TEAM 🟣
+#### 🎯 Full SIEM
+- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](...................)** *(Live Traffic)*
+- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](.......................)**
+- **[Setting up Splunk SIEM; Attacking and remediating it](..............)** *(Live Traffic)*
+
+### GRC Analyst ###
+- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](...................)**
+
+###   IT Projects
+- **[Active Directory Lab: Creating 1000 Users with PowerShell](........................)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
