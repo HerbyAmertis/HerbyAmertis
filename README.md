@@ -21,7 +21,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response: Threat Hunting (Operation Jackal Spear) ](...........)**
 - **[Incident Response: Zero-Day Ransomware (PwnCrypt)](..............)**
 - **[Incident Response: Remote Code Execution Detected](.............)**
-- **[Threat Hunting Incident: Tor Browser Usage](......................)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](................)**
 - **[Incident Response: Email-Phishing (Urgent Account Suspended)](.................)**
 - **[Incident Response: Email Analysis (Phishing)](..................)**
